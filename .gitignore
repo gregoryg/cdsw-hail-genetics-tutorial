@@ -1,0 +1,9 @@
+.bash_history
+.cache/
+.ipython/
+.local/
+.pip/
+.viminfo
+Hail_Tutorial-v2/
+Hail_Tutorial_Data-v2.tgz
+hail.log
